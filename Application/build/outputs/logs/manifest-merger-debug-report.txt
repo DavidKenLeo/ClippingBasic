@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:20:1-40:12
+	package
+		ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:21:5-48
+	android:versionName
+		ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:23:5-30
+		INJECTED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:22:5-28
+		INJECTED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:20:11-69
+application
+ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:25:5-37:19
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\75cb1c279b1e8d6b098c2d706278977f067431e7\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\ea0ddbd3e74280a5e14c01c8ae0abcff7780fb70\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\f96477140aca47a3d94d2a5a5a5e557b58425cbb\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\9d74b4aa2354d91c8b0ea0cd5d6724a5b6abeb78\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\c2a743582e3a9769f180be12dbee85c262b96411\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\14c9ff2504473dcc94b1cf8a4698996a95845c80\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\13f971863a293da94d63968d82448338a74b1a21\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\903590dea7024eb7ac7e5638d7431dea2e6af73a\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\47864f772fa82576dd3022b7c97d72b8b25e1252\output\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\ec5131068b3aa898e8fc7e1d20595debae3e4a89\output\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\eff121efd77f714b437bc8934008c5a5da5e09d8\output\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\1332fc3b6b111a49a6540b1d6973a63491571607\output\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:25:18-44
+	android:icon
+		ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:27:9-45
+	android:theme
+		ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:28:9-60
+activity#com.example.android.clippingbasic.MainActivity
+ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:30:9-36:20
+	android:label
+		ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:31:19-51
+	android:name
+		ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:30:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\75cb1c279b1e8d6b098c2d706278977f067431e7\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\ea0ddbd3e74280a5e14c01c8ae0abcff7780fb70\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\f96477140aca47a3d94d2a5a5a5e557b58425cbb\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\9d74b4aa2354d91c8b0ea0cd5d6724a5b6abeb78\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\c2a743582e3a9769f180be12dbee85c262b96411\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\14c9ff2504473dcc94b1cf8a4698996a95845c80\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\13f971863a293da94d63968d82448338a74b1a21\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\903590dea7024eb7ac7e5638d7431dea2e6af73a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\47864f772fa82576dd3022b7c97d72b8b25e1252\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\ec5131068b3aa898e8fc7e1d20595debae3e4a89\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\eff121efd77f714b437bc8934008c5a5da5e09d8\output\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\1332fc3b6b111a49a6540b1d6973a63491571607\output\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\75cb1c279b1e8d6b098c2d706278977f067431e7\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\auser.DESKTOP-96LUH4N\AndroidStudioProjects\ClippingBasic\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\75cb1c279b1e8d6b098c2d706278977f067431e7\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\ea0ddbd3e74280a5e14c01c8ae0abcff7780fb70\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\f96477140aca47a3d94d2a5a5a5e557b58425cbb\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\9d74b4aa2354d91c8b0ea0cd5d6724a5b6abeb78\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\c2a743582e3a9769f180be12dbee85c262b96411\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\14c9ff2504473dcc94b1cf8a4698996a95845c80\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\13f971863a293da94d63968d82448338a74b1a21\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\903590dea7024eb7ac7e5638d7431dea2e6af73a\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\47864f772fa82576dd3022b7c97d72b8b25e1252\output\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\ec5131068b3aa898e8fc7e1d20595debae3e4a89\output\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\eff121efd77f714b437bc8934008c5a5da5e09d8\output\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\75cb1c279b1e8d6b098c2d706278977f067431e7\output\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\75cb1c279b1e8d6b098c2d706278977f067431e7\output\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\1332fc3b6b111a49a6540b1d6973a63491571607\output\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\1332fc3b6b111a49a6540b1d6973a63491571607\output\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\auser.DESKTOP-96LUH4N\.android\build-cache\1332fc3b6b111a49a6540b1d6973a63491571607\output\AndroidManifest.xml:26:13-58
